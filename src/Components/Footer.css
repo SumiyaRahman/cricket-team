@@ -1,0 +1,6 @@
+.news-bg{
+    background-image: url('../assets/images/bg-shadow.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
