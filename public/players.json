@@ -1,0 +1,83 @@
+[
+    {
+      "player_id": 1,
+      "name": "Mohammad Babar Azam",
+      "country": "Pakistan",
+      "role": "Batsman",
+      "batting_style": "Right-Hand-Bat",
+      "rating": "9.5",
+      "price": 1700000,
+      "image_url": "https://i.ibb.co.com/TcqBSDZ/Untitled-design.jpg"
+    },
+    {
+      "player_id": 2,
+      "name": "Mitchell Marsh",
+      "country": "Australia",
+      "role": "All-Rounder",
+      "batting_style": "Right-Hand-Bat",
+      "rating": "8.8",
+      "price": 1400000,
+      "image_url": "https://i.ibb.co.com/3mCNG2L/376527-4.webp"
+    },
+    {
+      "player_id": 3,
+      "name": "Moeen Munir Ali",
+      "country": "England",
+      "role": "All-Rounder",
+      "batting_style": "Left-Hand-Bat",
+      "rating": "9.0",
+      "price": 1500000,
+      "image_url": "https://i.ibb.co.com/zrJdvvh/387231-6.webp"
+    },
+    {
+      "player_id": 4,
+      "name": "Anrich Nortje",
+      "country": "South Africa",
+      "role": "Bowler",
+      "batting_style": "Right-Hand-Bat",
+      "rating": "8.9",
+      "price": 1500000,
+      "image_url": "https://i.ibb.co.com/LpMxf7H/snb-CEs4jo-W.webp"
+    },
+    {
+      "player_id": 5,
+      "name": "Devon Conway",
+      "country": "New Zealand",
+      "role": "Batsman",
+      "batting_style": "Left-Hand-Bat",
+      "rating": "9.3",
+      "price": 1550000,
+      "image_url": "https://i.ibb.co.com/hy17ckz/1831123-guz-mbaaaapxq8.webp"
+    },
+    {
+      "player_id": 6,
+      "name": "Haris Rauf",
+      "country": "Pakistan",
+      "role": "Bowler",
+      "batting_style": "Right-Hand-Bat",
+      "rating": "8.9",
+      "price": 1300000,
+      "image_url": "https://i.ibb.co.com/thNt2Z2/haris-rauf-afp.jpg"
+    },
+    {
+      "player_id": 7,
+      "name": "Alzarri Joseph",
+      "country": "West Indies",
+      "role": "Bowler",
+      "batting_style": "Right-Hand-Bat",
+      "rating": "8.5",
+      "price": 1400000,
+      "image_url": "https://i.ibb.co.com/MBJcWX6/l82420240727190348.webp"
+    },
+    {
+      "player_id": 8,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "role": "Bowler",
+      "batting_style": "Right-Hand-Bat",
+      "rating": "9.1",
+      "price": 1500000,
+      "image_url": "https://i.ibb.co.com/JR1NkX9/383731-6.webp"
+    }
+  ]
+  
