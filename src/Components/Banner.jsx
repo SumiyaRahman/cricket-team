@@ -3,7 +3,6 @@ import bannerMain from '../assets/images/banner-main.png'
 import PropTypes from 'prop-types';
 
 const Banner = ({handleClaimCoins}) => {
-  const coinValue = 60000000;
 
   return (
     <section className="banner bg-[#131313] rounded-3xl flex flex-col items-center justify-center px-2 py-16">
@@ -18,7 +17,7 @@ const Banner = ({handleClaimCoins}) => {
           </p>
         </div>
         <div className="border border-[#E7FE29] p-2 w-[184px] md:w-[202px] mx-auto rounded-lg">
-          <button  onClick={() => handleClaimCoins(coinValue)} className="bg-[#E7FE29] text-sm md:text-base font-bold text-[#131313] px-5 py-3 rounded-lg pointer">
+          <button  onClick={handleClaimCoins} className="bg-[#E7FE29] text-sm md:text-base font-bold text-[#131313] px-5 py-3 rounded-lg pointer">
             Claim Free Credit
           </button>
         </div>

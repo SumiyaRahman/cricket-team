@@ -10,9 +10,10 @@ const App = () => {
 
   const [claimCoins, setClaimCoins] = useState(0);
 
-  const handleClaimCoins = coin =>{
-    setClaimCoins(previousCoin => previousCoin + coin);
-    toast.success(`Successfully claimed ${coin} coins!`);
+  const handleClaimCoins = () => {
+    const prevCoin = claimCoins + 6000000;
+    setClaimCoins(prevCoin);
+    toast.success(`Successfully claimed coins!`);
   }
   
   return (
