@@ -18,7 +18,7 @@ const App = () => {
   
   return (
     <div>
-      <div  className="container mx-auto px-5">
+      <div  className=" px-5">
       <ToastContainer position="top-center" autoClose={2000} hideProgressBar={false} newestOnTop closeOnClick pauseOnFocusLoss draggable pauseOnHover></ToastContainer>
       
       {/* Header */}

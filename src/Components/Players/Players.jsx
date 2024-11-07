@@ -66,7 +66,7 @@ const Players = ({ claimCoins, setClaimCoins }) => {
   };
 
   return (
-    <section className="mt-20">
+    <section className="mt-20 container mx-auto">
       <div className="flex flex-col md:flex-row items-center justify-center md:justify-between gap-5">
         <div className="flex flex-col">
           <h3 className={`text-[#131313] text-2xl md:text-3xl font-bold ${availableBtn ? 'block' : 'hidden'}`}>

@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 const Banner = ({handleClaimCoins}) => {
 
   return (
-    <section className="banner bg-[#131313] rounded-3xl flex flex-col items-center justify-center px-2 py-16">
+    <section className="banner bg-[#131313] rounded-3xl flex flex-col items-center justify-center px-2 py-16 container mx-auto">
       <img src={bannerMain} className="mb-6"></img>
       <div className="text-center">
         <div className="text-white py-6">
